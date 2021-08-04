@@ -1,4 +1,4 @@
-package com.evertondutra.citiesapi.staties;
+package com.evertondutra.citiesapi.states;
 
 import com.evertondutra.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;

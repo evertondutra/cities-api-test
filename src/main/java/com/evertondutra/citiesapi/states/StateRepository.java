@@ -1,4 +1,4 @@
-package com.evertondutra.citiesapi.staties;
+package com.evertondutra.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
