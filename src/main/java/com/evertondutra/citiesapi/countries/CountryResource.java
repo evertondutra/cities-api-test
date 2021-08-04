@@ -1,7 +1,7 @@
-package com.evertondutra.citiesapi;
+package com.evertondutra.citiesapi.countries;
 
 import com.evertondutra.citiesapi.countries.Country;
-import com.evertondutra.citiesapi.repository.CountryRepository;
+import com.evertondutra.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
